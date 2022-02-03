@@ -1,0 +1,111 @@
+
+machete_enemy_idle.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L_arm
+  rotate: false
+  xy: 197, 9
+  size: 59, 46
+  orig: 61, 48
+  offset: 1, 1
+  index: -1
+R_arm
+  rotate: false
+  xy: 197, 9
+  size: 59, 46
+  orig: 61, 48
+  offset: 1, 1
+  index: -1
+L_calf
+  rotate: false
+  xy: 465, 2
+  size: 37, 106
+  orig: 39, 108
+  offset: 1, 1
+  index: -1
+L_foot
+  rotate: true
+  xy: 258, 9
+  size: 46, 32
+  orig: 48, 34
+  offset: 1, 1
+  index: -1
+R_foot
+  rotate: true
+  xy: 258, 9
+  size: 46, 32
+  orig: 48, 34
+  offset: 1, 1
+  index: -1
+L_forearm
+  rotate: false
+  xy: 581, 12
+  size: 45, 96
+  orig: 47, 98
+  offset: 1, 1
+  index: -1
+R_hand
+  rotate: false
+  xy: 581, 12
+  size: 45, 96
+  orig: 47, 98
+  offset: 1, 1
+  index: -1
+L_hip
+  rotate: false
+  xy: 422, 2
+  size: 41, 106
+  orig: 43, 108
+  offset: 1, 1
+  index: -1
+L_shoulder
+  rotate: true
+  xy: 292, 10
+  size: 45, 128
+  orig: 47, 130
+  offset: 1, 1
+  index: -1
+R_shoulder
+  rotate: true
+  xy: 292, 10
+  size: 45, 128
+  orig: 47, 130
+  offset: 1, 1
+  index: -1
+R_calf
+  rotate: false
+  xy: 504, 2
+  size: 37, 106
+  orig: 39, 108
+  offset: 1, 1
+  index: -1
+R_hip
+  rotate: false
+  xy: 543, 2
+  size: 36, 106
+  orig: 38, 108
+  offset: 1, 1
+  index: -1
+body
+  rotate: false
+  xy: 2, 13
+  size: 193, 241
+  orig: 193, 241
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 197, 57
+  size: 160, 197
+  orig: 162, 199
+  offset: 1, 1
+  index: -1
+machine_gun
+  rotate: false
+  xy: 359, 110
+  size: 297, 144
+  orig: 297, 144
+  offset: 0, 0
+  index: -1
